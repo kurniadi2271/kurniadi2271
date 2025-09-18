@@ -2,7 +2,7 @@
 
 My name is Kurniadi Pratama and I'm a front-end engineer. I'm from Indonesia, living in Kartosuro.
 
-## 🔧 Technologies & Tools
+## 🔧 Technologies & Tools I use
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows%2011&logoColor=white&color=lightgreen)
 ![](https://img.shields.io/badge/Editor-VS_CODE-informational?style=flat&logo=visual-studio-code&logoColor=white&color=lightgreen)
@@ -13,7 +13,7 @@ My name is Kurniadi Pratama and I'm a front-end engineer. I'm from Indonesia, li
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=lightgreen)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=lightgreen)
 
-## 📫 About
+## 📫 About me
 
  🌱 I’m currently learning fullstack to become a fullstack developer.</br>
  🌱 I am currently participating in the Asah program at Dicoding.</br>
