@@ -12,11 +12,11 @@ My name is Kurniadi Pratama and I'm a front-end engineer. I'm from Indonesia, li
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=lightgreen)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=lightgreen)
 
-## 🧐 About
+## 📫 About
 
 - 🌱 I’m currently learning fullstack to become a fullstack developer.
-- 🤔 I am currently participating in the Asah program at Dicoding.
-- 🔭 I'm a student at the Universitas Terbuka, majoring in Information Systems.
+- 🌱 I am currently participating in the Asah program at Dicoding.
+- 🌱 I'm a student at the Universitas Terbuka, majoring in Information Systems.
 
 ## 💬 Get in Touch
 
@@ -37,5 +37,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  Fun fact: ...
 -->
