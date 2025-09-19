@@ -1,6 +1,6 @@
 ---
 
-<img align ="right" src="https://komarev.com/ghpvc/?username=kurniadi2271&style=plastic&base=15320&abbreviated=true&color=green&label=Profile+Views" alt="Profile Views">
+<img align ="right" src="https://komarev.com/ghpvc/?username=kurniadi2271&style=plastic&abbreviated=true&color=green&label=Profile+Views" alt="Profile Views">
 
 # ✨ Hello, There ! ✨
 
