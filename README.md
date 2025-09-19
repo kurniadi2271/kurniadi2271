@@ -34,7 +34,7 @@ __My name is Kurniadi Pratama and I'm a front-end engineer. I'm from Indonesia, 
 <details>
  <summary><h2> 📊 Github Stats</h2></summary>
  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kurniadi2271&show_icons=true&theme=green&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurniadi2271&langs_count=8&theme=green&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+ <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurniadi2271&langs_count=8&theme=green&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
  
  ![](https://github-readme-streak-stats.herokuapp.com/?user=kurniadi2271&theme=green&hide_border=false)
 
