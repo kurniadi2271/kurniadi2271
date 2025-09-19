@@ -33,10 +33,11 @@ __My name is Kurniadi Pratama and I'm a front-end engineer. I'm from Indonesia, 
 
 <details>
  <summary><h2> 📊 Github Stats</h2></summary>
- 
- ![](https://github-readme-stats.vercel.app/api?username=kurniadi2271&theme=lightgreen&hide_border=false&include_all_commits=false&count_private=false)
- ![](https://github-readme-streak-stats.herokuapp.com/?user=kurniadi2271&theme=lightgreen&hide_border=false)
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kurniadi2271&theme=lightgreen&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=kurniadi2271&theme=green&hide_border=false)
+ ![](https://github-readme-stats.vercel.app/api?username=kurniadi2271&theme=green&hide_border=false&include_all_commits=false&count_private=false)
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kurniadi2271&theme=green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 </details>
 
 ---
