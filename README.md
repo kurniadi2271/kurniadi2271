@@ -1,8 +1,12 @@
-# ✨ Hello, There
+---
+
+<img align ="right" src="https://komarev.com/ghpvc/?username=kurniadi2271&style=plastic&base=15320&abbreviated=true&color=green&label=Profile+Views" alt="Profile Views">
+
+# ✨ Hello, There ! ✨
 
 My name is Kurniadi Pratama and I'm a front-end engineer. I'm from Indonesia, living in Kartosuro.
 
-## 🔧 Technologies & Tools I use
+## 🔧 Technologies & Tools I use 
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows%2011&logoColor=white&color=lightgreen)
 ![](https://img.shields.io/badge/Editor-VS_CODE-informational?style=flat&logo=visual-studio-code&logoColor=white&color=lightgreen)
@@ -26,6 +30,18 @@ My name is Kurniadi Pratama and I'm a front-end engineer. I'm from Indonesia, li
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Kurniadi784)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kurniadi-pratama-5b092413a)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratamakurniadi@gmail.com)
+
+<details>
+ <summary><h2> 📊 Github Stats</h2></summary>
+ 
+ ![](https://github-readme-stats.vercel.app/api?username=kurniadi2271&theme=lightgreen&hide_border=false&include_all_commits=false&count_private=false)
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=kurniadi2271&theme=lightgreen&hide_border=false)
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kurniadi2271&theme=lightgreen&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</details>
+
+---
+
+
 <!--
 **kurniadi2271/kurniadi2271** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
