@@ -4,7 +4,7 @@
 
 # ✨ Hello, There ! ✨
 
-**My name is Kurniadi Pratama and I'm a front-end engineer. I'm from Indonesia, living in Kartasura**
+__My name is Kurniadi Pratama and I'm a front-end engineer. I'm from Indonesia, living in Kartasura__
 
 ## 🔧 Technologies & Tools I use 
 
